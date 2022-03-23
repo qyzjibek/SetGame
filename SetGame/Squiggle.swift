@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+// Nothing to change
 
 struct Squiggle: Shape {
     var insetAmount: CGFloat = 0
