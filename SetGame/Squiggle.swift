@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// Draw a squiggle
+
 struct Squiggle: Shape {
     var insetAmount: CGFloat = 0
 
